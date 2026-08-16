@@ -333,7 +333,7 @@
             "last_commit": "2025-04-22T14:18:12Z",
             "owner": "rstudio",
             "repo": "shinydashboard",
-            "stars": 927
+            "stars": 928
           }
         },
         {
@@ -2521,7 +2521,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-15T18:19:24Z",
+            "last_commit": "2026-08-16T04:55:14Z",
             "owner": "madhankumarnagaraji",
             "repo": "dataviewR",
             "stars": 19
@@ -4502,7 +4502,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-15T22:36:32Z",
+            "last_commit": "2026-08-16T21:29:19Z",
             "owner": "xability",
             "repo": "r-maidr",
             "stars": 4
@@ -6296,7 +6296,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-15T03:54:45Z",
+            "last_commit": "2026-08-16T21:05:40Z",
             "owner": "gladkia",
             "repo": "igvShiny",
             "stars": 43
@@ -6795,7 +6795,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-13T01:25:03Z",
+            "last_commit": "2026-08-16T12:57:10Z",
             "owner": "nteetor",
             "repo": "yonder",
             "stars": 136
@@ -6823,7 +6823,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-15T12:24:17Z",
+            "last_commit": "2026-08-16T12:07:17Z",
             "owner": "BristolMyersSquibb",
             "repo": "blockr.core",
             "stars": 16
@@ -6947,7 +6947,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-14T01:36:56Z",
+            "last_commit": "2026-08-16T04:02:28Z",
             "owner": "insightsengineering",
             "repo": "teal.modules.clinical",
             "stars": 42
@@ -7185,7 +7185,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-03T06:02:49Z",
+            "last_commit": "2026-08-16T21:13:25Z",
             "owner": "BristolMyersSquibb",
             "repo": "blockr.io",
             "stars": 1
@@ -7227,7 +7227,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-14T19:31:57Z",
+            "last_commit": "2026-08-16T12:30:27Z",
             "owner": "BristolMyersSquibb",
             "repo": "blockr.session",
             "stars": 0
@@ -7924,7 +7924,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-15T11:22:22Z",
+            "last_commit": "2026-08-16T11:21:26Z",
             "owner": "tidyverse",
             "repo": "googlesheets4",
             "stars": 375
@@ -7938,7 +7938,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-15T13:58:14Z",
+            "last_commit": "2026-08-16T13:59:18Z",
             "owner": "tidyverse",
             "repo": "googledrive",
             "stars": 345
@@ -8272,7 +8272,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-05-29T23:15:38Z",
+            "last_commit": "2026-08-16T17:07:42Z",
             "owner": "klmr",
             "repo": "box",
             "stars": 971
@@ -9191,7 +9191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:32:26.608Z",
+    "last_updated": "2026-08-16T23:32:05.297Z",
     "original_repository": "nanxstats/awesome-shiny-extensions",
     "original_repository_sha": "18b817722ddcf94145b2b47d49ad9d24808b22f4",
     "enhanced_repository": "enhansome/enhansome-shiny-extensions",
