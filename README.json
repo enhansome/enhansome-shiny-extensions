@@ -578,7 +578,7 @@
                 "last_commit": "2026-01-08T11:33:55Z",
                 "owner": "ashbaldry",
                 "repo": "designer",
-                "stars": 153
+                "stars": 154
               }
             },
             {
@@ -608,7 +608,7 @@
                 "last_commit": "2025-06-30T15:05:17Z",
                 "owner": "rstudio",
                 "repo": "sass",
-                "stars": 102
+                "stars": 103
               }
             },
             {
@@ -813,7 +813,7 @@
                 "archived": false,
                 "id": 945952202,
                 "language": "R",
-                "last_commit": "2026-08-19T08:32:37Z",
+                "last_commit": "2026-08-19T14:11:47Z",
                 "owner": "cynkra",
                 "repo": "dockViewR",
                 "stars": 33
@@ -2301,7 +2301,7 @@
                 "archived": false,
                 "id": 126038547,
                 "language": "R",
-                "last_commit": "2026-08-15T14:45:45Z",
+                "last_commit": "2026-08-19T23:19:38Z",
                 "owner": "rstudio",
                 "repo": "gt",
                 "stars": 2162
@@ -2316,7 +2316,7 @@
                 "archived": false,
                 "id": 172829996,
                 "language": "R",
-                "last_commit": "2026-08-19T09:24:43Z",
+                "last_commit": "2026-08-19T20:58:54Z",
                 "owner": "ddsjoberg",
                 "repo": "gtsummary",
                 "stars": 1206
@@ -4076,7 +4076,7 @@
                 "last_commit": "2020-07-17T09:49:54Z",
                 "owner": "JohnCoene",
                 "repo": "shinyscroll",
-                "stars": 22
+                "stars": 23
               }
             },
             {
@@ -4121,7 +4121,7 @@
                 "last_commit": "2024-09-12T13:27:00Z",
                 "owner": "lgnbhl",
                 "repo": "gotop",
-                "stars": 17
+                "stars": 18
               }
             },
             {
@@ -4356,7 +4356,7 @@
                 "archived": false,
                 "id": 50974710,
                 "language": "R",
-                "last_commit": "2026-08-17T20:33:28Z",
+                "last_commit": "2026-08-19T17:27:54Z",
                 "owner": "neuhausi",
                 "repo": "canvasXpress",
                 "stars": 313
@@ -4554,7 +4554,7 @@
                 "last_commit": "2026-07-29T14:18:22Z",
                 "owner": "matthewkling",
                 "repo": "ggcube",
-                "stars": 54
+                "stars": 55
               }
             },
             {
@@ -7127,7 +7127,7 @@
                 "last_commit": "2026-07-15T08:51:43Z",
                 "owner": "dmurdoch",
                 "repo": "rgl",
-                "stars": 102
+                "stars": 103
               }
             },
             {
@@ -7332,7 +7332,7 @@
                 "archived": false,
                 "id": 877196855,
                 "language": "R",
-                "last_commit": "2026-08-19T09:14:32Z",
+                "last_commit": "2026-08-19T19:34:40Z",
                 "owner": "BristolMyersSquibb",
                 "repo": "blockr.core",
                 "stars": 16
@@ -7429,7 +7429,7 @@
                 "archived": false,
                 "id": 565948947,
                 "language": "R",
-                "last_commit": "2026-08-17T03:51:29Z",
+                "last_commit": "2026-08-19T17:21:39Z",
                 "owner": "Aggregate-Genius",
                 "repo": "periscope2",
                 "stars": 9
@@ -7466,7 +7466,7 @@
                 "archived": false,
                 "id": 383270623,
                 "language": "R",
-                "last_commit": "2026-08-18T17:17:25Z",
+                "last_commit": "2026-08-19T17:16:09Z",
                 "owner": "insightsengineering",
                 "repo": "teal.modules.clinical",
                 "stars": 42
@@ -7751,7 +7751,7 @@
                 "archived": false,
                 "id": 1064666805,
                 "language": "R",
-                "last_commit": "2026-08-19T12:36:47Z",
+                "last_commit": "2026-08-19T22:38:42Z",
                 "owner": "BristolMyersSquibb",
                 "repo": "blockr.dock",
                 "stars": 0
@@ -7766,7 +7766,7 @@
                 "archived": false,
                 "id": 993230096,
                 "language": "R",
-                "last_commit": "2026-08-19T09:21:54Z",
+                "last_commit": "2026-08-19T19:32:31Z",
                 "owner": "BristolMyersSquibb",
                 "repo": "blockr.session",
                 "stars": 0
@@ -8533,7 +8533,7 @@
                 "archived": false,
                 "id": 89535184,
                 "language": "R",
-                "last_commit": "2026-08-18T14:14:22Z",
+                "last_commit": "2026-08-19T14:21:26Z",
                 "owner": "tidyverse",
                 "repo": "googledrive",
                 "stars": 345
@@ -9641,7 +9641,7 @@
                 "last_commit": "2026-07-29T04:10:43Z",
                 "owner": "posit-dev",
                 "repo": "py-shinyswatch",
-                "stars": 36
+                "stars": 37
               }
             }
           ],
@@ -9892,7 +9892,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:50:37.790Z",
+    "last_updated": "2026-08-19T23:34:04.845Z",
     "original_repository": "nanxstats/awesome-shiny-extensions",
     "original_repository_id": 160253241,
     "original_repository_sha": "18b817722ddcf94145b2b47d49ad9d24808b22f4",
