@@ -329,7 +329,7 @@
                 "archived": false,
                 "id": 1278612201,
                 "language": "R",
-                "last_commit": "2026-08-14T19:17:48Z",
+                "last_commit": "2026-08-20T15:42:03Z",
                 "owner": "ericrayanderson",
                 "repo": "shinyglass",
                 "stars": 1
@@ -369,7 +369,7 @@
                 "last_commit": "2026-06-26T13:36:01Z",
                 "owner": "rstudio",
                 "repo": "flexdashboard",
-                "stars": 846
+                "stars": 847
               }
             },
             {
@@ -545,7 +545,7 @@
                 "archived": false,
                 "id": 219071141,
                 "language": "SCSS",
-                "last_commit": "2026-08-13T15:01:20Z",
+                "last_commit": "2026-08-20T15:54:52Z",
                 "owner": "rstudio",
                 "repo": "bslib",
                 "stars": 568
@@ -2207,7 +2207,7 @@
                 "last_commit": "2025-11-11T20:19:28Z",
                 "owner": "mlverse",
                 "repo": "chattr",
-                "stars": 248
+                "stars": 249
               }
             },
             {
@@ -2234,7 +2234,7 @@
                 "archived": false,
                 "id": 859575784,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T23:41:32Z",
+                "last_commit": "2026-08-20T23:22:41Z",
                 "owner": "posit-dev",
                 "repo": "shinychat",
                 "stars": 136
@@ -2304,7 +2304,7 @@
                 "last_commit": "2026-08-19T23:19:38Z",
                 "owner": "rstudio",
                 "repo": "gt",
-                "stars": 2162
+                "stars": 2161
               }
             },
             {
@@ -2316,10 +2316,10 @@
                 "archived": false,
                 "id": 172829996,
                 "language": "R",
-                "last_commit": "2026-08-19T20:58:54Z",
+                "last_commit": "2026-08-20T23:34:38Z",
                 "owner": "ddsjoberg",
                 "repo": "gtsummary",
-                "stars": 1206
+                "stars": 1207
               }
             },
             {
@@ -2881,7 +2881,7 @@
                 "last_commit": "2025-02-21T13:20:45Z",
                 "owner": "dreamRs",
                 "repo": "esquisse",
-                "stars": 1859
+                "stars": 1858
               }
             },
             {
@@ -4269,7 +4269,7 @@
                 "last_commit": "2026-08-14T09:20:13Z",
                 "owner": "davidgohel",
                 "repo": "ggiraph",
-                "stars": 876
+                "stars": 877
               }
             },
             {
@@ -4356,7 +4356,7 @@
                 "archived": false,
                 "id": 50974710,
                 "language": "R",
-                "last_commit": "2026-08-19T17:27:54Z",
+                "last_commit": "2026-08-20T22:30:10Z",
                 "owner": "neuhausi",
                 "repo": "canvasXpress",
                 "stars": 313
@@ -4659,7 +4659,7 @@
                 "last_commit": "2026-08-15T04:20:54Z",
                 "owner": "AdrianAntico",
                 "repo": "AutoPlots",
-                "stars": 25
+                "stars": 26
               }
             },
             {
@@ -4836,7 +4836,7 @@
                 "archived": false,
                 "id": 1016931535,
                 "language": "HTML",
-                "last_commit": "2026-08-18T09:18:02Z",
+                "last_commit": "2026-08-20T23:32:43Z",
                 "owner": "xability",
                 "repo": "r-maidr",
                 "stars": 4
@@ -5070,7 +5070,7 @@
                 "last_commit": "2024-08-18T18:43:47Z",
                 "owner": "daattali",
                 "repo": "timevis",
-                "stars": 681
+                "stars": 682
               }
             },
             {
@@ -5773,7 +5773,7 @@
                 "last_commit": "2026-02-27T18:10:40Z",
                 "owner": "bupaverse",
                 "repo": "processmapR",
-                "stars": 10
+                "stars": 11
               }
             },
             {
@@ -6053,8 +6053,8 @@
               "repo_info": {
                 "archived": false,
                 "id": 817303212,
-                "language": "JavaScript",
-                "last_commit": "2026-08-07T22:15:16Z",
+                "language": "R",
+                "last_commit": "2026-08-20T20:16:02Z",
                 "owner": "walkerke",
                 "repo": "mapgl",
                 "stars": 171
@@ -6750,7 +6750,7 @@
                 "archived": false,
                 "id": 124605775,
                 "language": "R",
-                "last_commit": "2026-08-19T03:59:54Z",
+                "last_commit": "2026-08-20T04:00:59Z",
                 "owner": "gladkia",
                 "repo": "igvShiny",
                 "stars": 45
@@ -6768,7 +6768,7 @@
                 "last_commit": "2026-08-07T18:17:30Z",
                 "owner": "ggsegverse",
                 "repo": "ggseg3d",
-                "stars": 44
+                "stars": 45
               }
             },
             {
@@ -7290,7 +7290,7 @@
                 "last_commit": "2026-06-23T00:14:04Z",
                 "owner": "surveydown-dev",
                 "repo": "surveydown",
-                "stars": 179
+                "stars": 180
               }
             },
             {
@@ -7332,7 +7332,7 @@
                 "archived": false,
                 "id": 877196855,
                 "language": "R",
-                "last_commit": "2026-08-19T19:34:40Z",
+                "last_commit": "2026-08-20T13:15:12Z",
                 "owner": "BristolMyersSquibb",
                 "repo": "blockr.core",
                 "stars": 16
@@ -7429,7 +7429,7 @@
                 "archived": false,
                 "id": 565948947,
                 "language": "R",
-                "last_commit": "2026-08-19T17:21:39Z",
+                "last_commit": "2026-08-20T17:30:32Z",
                 "owner": "Aggregate-Genius",
                 "repo": "periscope2",
                 "stars": 9
@@ -7661,7 +7661,7 @@
                 "archived": false,
                 "id": 739576884,
                 "language": "R",
-                "last_commit": "2026-08-17T22:37:16Z",
+                "last_commit": "2026-08-20T22:41:17Z",
                 "owner": "j-andrews7",
                 "repo": "VizModules",
                 "stars": 3
@@ -7751,7 +7751,7 @@
                 "archived": false,
                 "id": 1064666805,
                 "language": "R",
-                "last_commit": "2026-08-19T22:38:42Z",
+                "last_commit": "2026-08-20T06:17:07Z",
                 "owner": "BristolMyersSquibb",
                 "repo": "blockr.dock",
                 "stars": 0
@@ -7766,7 +7766,7 @@
                 "archived": false,
                 "id": 993230096,
                 "language": "R",
-                "last_commit": "2026-08-19T19:32:31Z",
+                "last_commit": "2026-08-20T12:21:15Z",
                 "owner": "BristolMyersSquibb",
                 "repo": "blockr.session",
                 "stars": 0
@@ -7916,7 +7916,7 @@
                 "last_commit": "2025-03-21T01:44:35Z",
                 "owner": "rexyai",
                 "repo": "RestRserve",
-                "stars": 296
+                "stars": 295
               }
             },
             {
@@ -8394,7 +8394,7 @@
                 "last_commit": "2025-04-03T12:59:03Z",
                 "owner": "rstudio",
                 "repo": "blastula",
-                "stars": 575
+                "stars": 576
               }
             },
             {
@@ -8518,7 +8518,7 @@
                 "archived": false,
                 "id": 89657511,
                 "language": "R",
-                "last_commit": "2026-08-19T11:35:34Z",
+                "last_commit": "2026-08-20T11:26:04Z",
                 "owner": "tidyverse",
                 "repo": "googlesheets4",
                 "stars": 375
@@ -8533,7 +8533,7 @@
                 "archived": false,
                 "id": 89535184,
                 "language": "R",
-                "last_commit": "2026-08-19T14:21:26Z",
+                "last_commit": "2026-08-20T14:15:11Z",
                 "owner": "tidyverse",
                 "repo": "googledrive",
                 "stars": 345
@@ -8631,7 +8631,7 @@
                 "last_commit": "2023-09-29T13:45:16Z",
                 "owner": "nativefier",
                 "repo": "nativefier",
-                "stars": 35285
+                "stars": 35288
               }
             },
             {
@@ -8758,7 +8758,7 @@
                 "last_commit": "2026-06-23T14:11:21Z",
                 "owner": "r-wasm",
                 "repo": "webr",
-                "stars": 1087
+                "stars": 1089
               }
             },
             {
@@ -9550,10 +9550,10 @@
                 "archived": false,
                 "id": 159560389,
                 "language": "R",
-                "last_commit": "2026-08-17T17:53:04Z",
+                "last_commit": "2026-08-20T20:16:06Z",
                 "owner": "rstudio",
                 "repo": "renv",
-                "stars": 1159
+                "stars": 1160
               }
             },
             {
@@ -9757,7 +9757,7 @@
                 "archived": false,
                 "id": 859575784,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T23:41:32Z",
+                "last_commit": "2026-08-20T23:22:41Z",
                 "owner": "posit-dev",
                 "repo": "shinychat",
                 "stars": 136
@@ -9794,10 +9794,10 @@
                 "archived": false,
                 "id": 489481382,
                 "language": "Python",
-                "last_commit": "2026-08-14T14:11:35Z",
+                "last_commit": "2026-08-20T21:19:43Z",
                 "owner": "posit-dev",
                 "repo": "great-tables",
-                "stars": 2718
+                "stars": 2719
               }
             },
             {
@@ -9812,7 +9812,7 @@
                 "last_commit": "2026-08-14T10:28:32Z",
                 "owner": "mwouts",
                 "repo": "itables",
-                "stars": 971
+                "stars": 972
               }
             },
             {
@@ -9876,7 +9876,7 @@
                 "archived": false,
                 "id": 224221914,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:16:29Z",
+                "last_commit": "2026-08-20T14:55:02Z",
                 "owner": "posit-dev",
                 "repo": "rsconnect-python",
                 "stars": 37
@@ -9892,7 +9892,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:34:04.845Z",
+    "last_updated": "2026-08-20T23:37:19.965Z",
     "original_repository": "nanxstats/awesome-shiny-extensions",
     "original_repository_id": 160253241,
     "original_repository_sha": "18b817722ddcf94145b2b47d49ad9d24808b22f4",
