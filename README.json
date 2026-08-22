@@ -299,7 +299,7 @@
                 "archived": false,
                 "id": 1241606407,
                 "language": "R",
-                "last_commit": "2026-08-15T14:06:35Z",
+                "last_commit": "2026-08-22T11:19:07Z",
                 "owner": "novica",
                 "repo": "shinyds",
                 "stars": 3
@@ -858,7 +858,7 @@
                 "archived": false,
                 "id": 1040090485,
                 "language": "R",
-                "last_commit": "2026-04-30T20:06:09Z",
+                "last_commit": "2026-08-22T22:34:58Z",
                 "owner": "nicholasdavies",
                 "repo": "inshiny",
                 "stars": 9
@@ -2219,7 +2219,7 @@
                 "archived": false,
                 "id": 947705011,
                 "language": "Python",
-                "last_commit": "2026-08-21T23:25:14Z",
+                "last_commit": "2026-08-22T01:14:37Z",
                 "owner": "posit-dev",
                 "repo": "querychat",
                 "stars": 211
@@ -2234,7 +2234,7 @@
                 "archived": false,
                 "id": 859575784,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T20:54:52Z",
+                "last_commit": "2026-08-22T00:51:40Z",
                 "owner": "posit-dev",
                 "repo": "shinychat",
                 "stars": 136
@@ -2706,7 +2706,7 @@
                 "archived": false,
                 "id": 996202416,
                 "language": "R",
-                "last_commit": "2026-08-16T04:55:14Z",
+                "last_commit": "2026-08-22T06:00:18Z",
                 "owner": "madhankumarnagaraji",
                 "repo": "dataviewR",
                 "stars": 19
@@ -4254,7 +4254,7 @@
                 "last_commit": "2026-07-25T00:33:15Z",
                 "owner": "plotly",
                 "repo": "plotly.R",
-                "stars": 2675
+                "stars": 2676
               }
             },
             {
@@ -4329,7 +4329,7 @@
                 "last_commit": "2024-01-09T12:00:55Z",
                 "owner": "rstudio",
                 "repo": "r2d3",
-                "stars": 526
+                "stars": 527
               }
             },
             {
@@ -4806,7 +4806,7 @@
                 "archived": false,
                 "id": 128548513,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T19:44:37Z",
+                "last_commit": "2026-08-22T16:22:58Z",
                 "owner": "mortonanalytics",
                 "repo": "myIO",
                 "stars": 7
@@ -4836,7 +4836,7 @@
                 "archived": false,
                 "id": 1016931535,
                 "language": "HTML",
-                "last_commit": "2026-08-21T20:25:51Z",
+                "last_commit": "2026-08-22T22:31:35Z",
                 "owner": "xability",
                 "repo": "r-maidr",
                 "stars": 4
@@ -6750,7 +6750,7 @@
                 "archived": false,
                 "id": 124605775,
                 "language": "R",
-                "last_commit": "2026-08-21T04:03:00Z",
+                "last_commit": "2026-08-22T18:39:30Z",
                 "owner": "gladkia",
                 "repo": "igvShiny",
                 "stars": 45
@@ -7094,7 +7094,7 @@
                 "archived": false,
                 "id": 133241343,
                 "language": "R",
-                "last_commit": "2026-08-18T03:33:12Z",
+                "last_commit": "2026-08-22T23:13:09Z",
                 "owner": "tylermorganwall",
                 "repo": "rayshader",
                 "stars": 2174
@@ -7260,7 +7260,7 @@
                 "last_commit": "2026-06-10T13:43:11Z",
                 "owner": "Appsilon",
                 "repo": "rhino",
-                "stars": 329
+                "stars": 330
               }
             },
             {
@@ -7751,7 +7751,7 @@
                 "archived": false,
                 "id": 1064666805,
                 "language": "R",
-                "last_commit": "2026-08-21T16:42:02Z",
+                "last_commit": "2026-08-22T04:46:38Z",
                 "owner": "BristolMyersSquibb",
                 "repo": "blockr.dock",
                 "stars": 0
@@ -7766,7 +7766,7 @@
                 "archived": false,
                 "id": 993230096,
                 "language": "R",
-                "last_commit": "2026-08-20T12:21:15Z",
+                "last_commit": "2026-08-22T16:29:36Z",
                 "owner": "BristolMyersSquibb",
                 "repo": "blockr.session",
                 "stars": 0
@@ -8518,7 +8518,7 @@
                 "archived": false,
                 "id": 89657511,
                 "language": "R",
-                "last_commit": "2026-08-21T11:31:31Z",
+                "last_commit": "2026-08-22T11:23:18Z",
                 "owner": "tidyverse",
                 "repo": "googlesheets4",
                 "stars": 375
@@ -8533,7 +8533,7 @@
                 "archived": false,
                 "id": 89535184,
                 "language": "R",
-                "last_commit": "2026-08-21T14:12:46Z",
+                "last_commit": "2026-08-22T13:58:30Z",
                 "owner": "tidyverse",
                 "repo": "googledrive",
                 "stars": 345
@@ -8631,7 +8631,7 @@
                 "last_commit": "2023-09-29T13:45:16Z",
                 "owner": "nativefier",
                 "repo": "nativefier",
-                "stars": 35288
+                "stars": 35286
               }
             },
             {
@@ -9757,7 +9757,7 @@
                 "archived": false,
                 "id": 859575784,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T20:54:52Z",
+                "last_commit": "2026-08-22T00:51:40Z",
                 "owner": "posit-dev",
                 "repo": "shinychat",
                 "stars": 136
@@ -9797,7 +9797,7 @@
                 "last_commit": "2026-08-21T22:09:50Z",
                 "owner": "posit-dev",
                 "repo": "great-tables",
-                "stars": 2719
+                "stars": 2721
               }
             },
             {
@@ -9892,7 +9892,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T23:35:34.707Z",
+    "last_updated": "2026-08-22T23:33:26.614Z",
     "original_repository": "nanxstats/awesome-shiny-extensions",
     "original_repository_id": 160253241,
     "original_repository_sha": "18b817722ddcf94145b2b47d49ad9d24808b22f4",
