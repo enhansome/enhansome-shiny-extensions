@@ -1861,21 +1861,6 @@
             },
             {
               "node_type": "item",
-              "title": "prompter",
-              "description": "Add tooltips in Shiny apps with 'hint.css'.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 322079833,
-                "language": "R",
-                "last_commit": "2025-07-02T20:00:30Z",
-                "owner": "etiennebacher",
-                "repo": "prompter",
-                "stars": 40
-              }
-            },
-            {
-              "node_type": "item",
               "title": "conductor",
               "description": "Create guided tours in Shiny apps using Shepherd.js.",
               "children": [],
@@ -1886,6 +1871,21 @@
                 "last_commit": "2026-08-17T10:46:02Z",
                 "owner": "etiennebacher",
                 "repo": "conductor",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "prompter",
+              "description": "Add tooltips in Shiny apps with 'hint.css'.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 322079833,
+                "language": "R",
+                "last_commit": "2025-07-02T20:00:30Z",
+                "owner": "etiennebacher",
+                "repo": "prompter",
                 "stars": 40
               }
             },
@@ -2214,7 +2214,7 @@
                 "last_commit": "2026-01-03T18:15:49Z",
                 "owner": "MichelNivard",
                 "repo": "gptstudio",
-                "stars": 992
+                "stars": 993
               }
             },
             {
@@ -2256,7 +2256,7 @@
                 "archived": false,
                 "id": 859575784,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T23:51:14Z",
+                "last_commit": "2026-08-24T22:20:28Z",
                 "owner": "posit-dev",
                 "repo": "shinychat",
                 "stars": 136
@@ -4364,7 +4364,7 @@
                 "last_commit": "2026-07-25T00:33:15Z",
                 "owner": "plotly",
                 "repo": "plotly.R",
-                "stars": 2677
+                "stars": 2678
               }
             },
             {
@@ -4466,7 +4466,7 @@
                 "archived": false,
                 "id": 50974710,
                 "language": "R",
-                "last_commit": "2026-08-21T15:11:48Z",
+                "last_commit": "2026-08-24T17:57:25Z",
                 "owner": "neuhausi",
                 "repo": "canvasXpress",
                 "stars": 313
@@ -4721,7 +4721,7 @@
                 "archived": false,
                 "id": 60614778,
                 "language": "R",
-                "last_commit": "2021-07-04T04:37:46Z",
+                "last_commit": "2026-08-24T22:20:08Z",
                 "owner": "mrjoh3",
                 "repo": "c3",
                 "stars": 39
@@ -4916,7 +4916,7 @@
                 "archived": false,
                 "id": 128548513,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T16:22:58Z",
+                "last_commit": "2026-08-24T15:57:48Z",
                 "owner": "mortonanalytics",
                 "repo": "myIO",
                 "stars": 7
@@ -4946,7 +4946,7 @@
                 "archived": false,
                 "id": 1016931535,
                 "language": "HTML",
-                "last_commit": "2026-08-24T13:35:08Z",
+                "last_commit": "2026-08-24T21:00:52Z",
                 "owner": "xability",
                 "repo": "r-maidr",
                 "stars": 4
@@ -5716,7 +5716,7 @@
                 "archived": false,
                 "id": 980655214,
                 "language": "R",
-                "last_commit": "2026-08-13T06:29:29Z",
+                "last_commit": "2026-08-24T21:39:46Z",
                 "owner": "cynkra",
                 "repo": "g6R",
                 "stars": 30
@@ -8687,7 +8687,7 @@
                 "archived": false,
                 "id": 89535184,
                 "language": "R",
-                "last_commit": "2026-08-23T14:00:17Z",
+                "last_commit": "2026-08-24T14:17:51Z",
                 "owner": "tidyverse",
                 "repo": "googledrive",
                 "stars": 345
@@ -8730,7 +8730,7 @@
                 "archived": false,
                 "id": 22077963,
                 "language": "R",
-                "last_commit": "2026-08-18T18:58:32Z",
+                "last_commit": "2026-08-24T22:41:11Z",
                 "owner": "rstudio",
                 "repo": "rsconnect",
                 "stars": 145
@@ -8785,7 +8785,7 @@
                 "last_commit": "2023-09-29T13:45:16Z",
                 "owner": "nativefier",
                 "repo": "nativefier",
-                "stars": 35289
+                "stars": 35288
               }
             },
             {
@@ -9440,7 +9440,7 @@
                 "last_commit": "2026-07-17T08:03:19Z",
                 "owner": "r-world-devs",
                 "repo": "jsplyr",
-                "stars": 22
+                "stars": 23
               }
             },
             {
@@ -9704,7 +9704,7 @@
                 "archived": false,
                 "id": 159560389,
                 "language": "R",
-                "last_commit": "2026-08-21T17:36:58Z",
+                "last_commit": "2026-08-24T21:37:57Z",
                 "owner": "rstudio",
                 "repo": "renv",
                 "stars": 1160
@@ -9911,7 +9911,7 @@
                 "archived": false,
                 "id": 859575784,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T23:51:14Z",
+                "last_commit": "2026-08-24T22:20:28Z",
                 "owner": "posit-dev",
                 "repo": "shinychat",
                 "stars": 136
@@ -9948,7 +9948,7 @@
                 "archived": false,
                 "id": 489481382,
                 "language": "Python",
-                "last_commit": "2026-08-24T03:34:46Z",
+                "last_commit": "2026-08-24T16:35:57Z",
                 "owner": "posit-dev",
                 "repo": "great-tables",
                 "stars": 2723
@@ -10090,7 +10090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:09:31.595Z",
+    "last_updated": "2026-08-24T23:32:33.025Z",
     "original_repository": "nanxstats/awesome-shiny-extensions",
     "original_repository_id": 160253241,
     "original_repository_sha": "18b817722ddcf94145b2b47d49ad9d24808b22f4",
