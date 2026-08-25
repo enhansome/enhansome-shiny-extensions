@@ -2256,7 +2256,7 @@
                 "archived": false,
                 "id": 859575784,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T22:20:28Z",
+                "last_commit": "2026-08-25T00:52:49Z",
                 "owner": "posit-dev",
                 "repo": "shinychat",
                 "stars": 136
@@ -4364,7 +4364,7 @@
                 "last_commit": "2026-07-25T00:33:15Z",
                 "owner": "plotly",
                 "repo": "plotly.R",
-                "stars": 2678
+                "stars": 2677
               }
             },
             {
@@ -4639,21 +4639,6 @@
             },
             {
               "node_type": "item",
-              "title": "lineupjs",
-              "description": "LineUp.js htmlwidget for interactive visual analysis of multi-attribute rankings.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 79809408,
-                "language": "R",
-                "last_commit": "2026-02-28T04:09:42Z",
-                "owner": "lineupjs",
-                "repo": "lineup_htmlwidget",
-                "stars": 55
-              }
-            },
-            {
-              "node_type": "item",
               "title": "ggcube",
               "description": "Create layered 3D figures with ggplot2, including drag-to-rotate htmlwidgets with Shiny output bindings.",
               "children": [],
@@ -4664,6 +4649,21 @@
                 "last_commit": "2026-07-29T14:18:22Z",
                 "owner": "matthewkling",
                 "repo": "ggcube",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lineupjs",
+              "description": "LineUp.js htmlwidget for interactive visual analysis of multi-attribute rankings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79809408,
+                "language": "R",
+                "last_commit": "2026-02-28T04:09:42Z",
+                "owner": "lineupjs",
+                "repo": "lineup_htmlwidget",
                 "stars": 55
               }
             },
@@ -4721,7 +4721,7 @@
                 "archived": false,
                 "id": 60614778,
                 "language": "R",
-                "last_commit": "2026-08-24T22:20:08Z",
+                "last_commit": "2026-08-25T01:49:42Z",
                 "owner": "mrjoh3",
                 "repo": "c3",
                 "stars": 39
@@ -4916,7 +4916,7 @@
                 "archived": false,
                 "id": 128548513,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T15:57:48Z",
+                "last_commit": "2026-08-25T01:56:04Z",
                 "owner": "mortonanalytics",
                 "repo": "myIO",
                 "stars": 7
@@ -4931,7 +4931,7 @@
                 "archived": false,
                 "id": 935142910,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T03:35:29Z",
+                "last_commit": "2026-08-25T02:16:59Z",
                 "owner": "AUS-DOH-Safety-and-Quality",
                 "repo": "controlcharts",
                 "stars": 5
@@ -4946,7 +4946,7 @@
                 "archived": false,
                 "id": 1016931535,
                 "language": "HTML",
-                "last_commit": "2026-08-24T21:00:52Z",
+                "last_commit": "2026-08-25T05:18:15Z",
                 "owner": "xability",
                 "repo": "r-maidr",
                 "stars": 4
@@ -6860,7 +6860,7 @@
                 "archived": false,
                 "id": 124605775,
                 "language": "R",
-                "last_commit": "2026-08-24T04:06:06Z",
+                "last_commit": "2026-08-25T04:01:07Z",
                 "owner": "gladkia",
                 "repo": "igvShiny",
                 "stars": 45
@@ -7883,7 +7883,7 @@
                 "archived": false,
                 "id": 1064666805,
                 "language": "R",
-                "last_commit": "2026-08-24T11:54:57Z",
+                "last_commit": "2026-08-25T05:53:33Z",
                 "owner": "BristolMyersSquibb",
                 "repo": "blockr.dock",
                 "stars": 0
@@ -7898,7 +7898,7 @@
                 "archived": false,
                 "id": 993230096,
                 "language": "R",
-                "last_commit": "2026-08-24T11:48:50Z",
+                "last_commit": "2026-08-25T05:53:49Z",
                 "owner": "BristolMyersSquibb",
                 "repo": "blockr.session",
                 "stars": 0
@@ -8093,7 +8093,7 @@
                 "last_commit": "2026-08-10T13:45:40Z",
                 "owner": "hyperverse-r",
                 "repo": "htmxr",
-                "stars": 44
+                "stars": 45
               }
             },
             {
@@ -8785,7 +8785,7 @@
                 "last_commit": "2023-09-29T13:45:16Z",
                 "owner": "nativefier",
                 "repo": "nativefier",
-                "stars": 35288
+                "stars": 35287
               }
             },
             {
@@ -9704,7 +9704,7 @@
                 "archived": false,
                 "id": 159560389,
                 "language": "R",
-                "last_commit": "2026-08-24T21:37:57Z",
+                "last_commit": "2026-08-25T03:29:06Z",
                 "owner": "rstudio",
                 "repo": "renv",
                 "stars": 1160
@@ -9911,7 +9911,7 @@
                 "archived": false,
                 "id": 859575784,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T22:20:28Z",
+                "last_commit": "2026-08-25T00:52:49Z",
                 "owner": "posit-dev",
                 "repo": "shinychat",
                 "stars": 136
@@ -10090,7 +10090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:32:33.025Z",
+    "last_updated": "2026-08-25T06:02:45.230Z",
     "original_repository": "nanxstats/awesome-shiny-extensions",
     "original_repository_id": 160253241,
     "original_repository_sha": "18b817722ddcf94145b2b47d49ad9d24808b22f4",
