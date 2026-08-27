@@ -269,7 +269,7 @@
                 "archived": false,
                 "id": 962220036,
                 "language": "R",
-                "last_commit": "2026-08-04T03:13:24Z",
+                "last_commit": "2026-08-27T04:44:28Z",
                 "owner": "lgnbhl",
                 "repo": "muiMaterial",
                 "stars": 7
@@ -813,7 +813,7 @@
                 "archived": false,
                 "id": 945952202,
                 "language": "R",
-                "last_commit": "2026-08-19T14:11:47Z",
+                "last_commit": "2026-08-27T09:05:23Z",
                 "owner": "cynkra",
                 "repo": "dockViewR",
                 "stars": 33
@@ -2259,7 +2259,7 @@
                 "last_commit": "2026-08-27T01:03:59Z",
                 "owner": "posit-dev",
                 "repo": "shinychat",
-                "stars": 136
+                "stars": 137
               }
             },
             {
@@ -2728,7 +2728,7 @@
                 "archived": false,
                 "id": 996202416,
                 "language": "R",
-                "last_commit": "2026-08-24T14:01:05Z",
+                "last_commit": "2026-08-27T11:13:23Z",
                 "owner": "madhankumarnagaraji",
                 "repo": "dataviewR",
                 "stars": 19
@@ -4454,7 +4454,7 @@
                 "last_commit": "2025-10-08T08:20:33Z",
                 "owner": "mages",
                 "repo": "googleVis",
-                "stars": 361
+                "stars": 362
               }
             },
             {
@@ -4946,7 +4946,7 @@
                 "archived": false,
                 "id": 1016931535,
                 "language": "HTML",
-                "last_commit": "2026-08-27T04:28:54Z",
+                "last_commit": "2026-08-27T04:35:50Z",
                 "owner": "xability",
                 "repo": "r-maidr",
                 "stars": 4
@@ -6890,7 +6890,7 @@
                 "archived": false,
                 "id": 321427995,
                 "language": "R",
-                "last_commit": "2026-08-12T16:01:46Z",
+                "last_commit": "2026-08-27T09:39:30Z",
                 "owner": "GMOD",
                 "repo": "JBrowseR",
                 "stars": 40
@@ -7404,7 +7404,7 @@
                 "archived": false,
                 "id": 383270569,
                 "language": "R",
-                "last_commit": "2026-08-26T14:59:22Z",
+                "last_commit": "2026-08-27T07:16:31Z",
                 "owner": "insightsengineering",
                 "repo": "teal",
                 "stars": 263
@@ -7464,7 +7464,7 @@
                 "archived": false,
                 "id": 877196855,
                 "language": "R",
-                "last_commit": "2026-08-25T08:14:36Z",
+                "last_commit": "2026-08-27T12:02:18Z",
                 "owner": "BristolMyersSquibb",
                 "repo": "blockr.core",
                 "stars": 16
@@ -7883,7 +7883,7 @@
                 "archived": false,
                 "id": 1064666805,
                 "language": "R",
-                "last_commit": "2026-08-26T12:28:25Z",
+                "last_commit": "2026-08-27T10:04:50Z",
                 "owner": "BristolMyersSquibb",
                 "repo": "blockr.dock",
                 "stars": 0
@@ -8785,7 +8785,7 @@
                 "last_commit": "2023-09-29T13:45:16Z",
                 "owner": "nativefier",
                 "repo": "nativefier",
-                "stars": 35286
+                "stars": 35285
               }
             },
             {
@@ -9914,7 +9914,7 @@
                 "last_commit": "2026-08-27T01:03:59Z",
                 "owner": "posit-dev",
                 "repo": "shinychat",
-                "stars": 136
+                "stars": 137
               }
             },
             {
@@ -10090,9 +10090,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:29:56.927Z",
-    "original_repository": "nanxstats/awesome-shiny-extensions",
-    "original_repository_id": 160253241,
+    "last_updated": "2026-08-27T12:03:14.719Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 160253241,
+      "language": "R",
+      "last_commit": "2026-08-07T04:33:11Z",
+      "owner": "nanxstats",
+      "repo": "awesome-shiny-extensions",
+      "stars": 1670
+    },
     "original_repository_sha": "18b817722ddcf94145b2b47d49ad9d24808b22f4",
     "enhanced_repository": "enhansome/enhansome-shiny-extensions",
     "enhanced_repository_description": null,
