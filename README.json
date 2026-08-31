@@ -2288,6 +2288,34 @@
             },
             {
               "node_type": "item",
+              "title": "VanillaCalendar",
+              "description": "Customizable date picker widget with theming and server-side updates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "htmlwidget bringing Vanilla Calendar Pro to R and Shiny",
+                "homepage": null,
+                "id": 757723879,
+                "language": "R",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-21T09:12:09Z",
+                "open_issues": 0,
+                "owner": "ESCRI11",
+                "repo": "vanilla-calendar-r",
+                "stars": 0,
+                "topics": [
+                  "calendar",
+                  "datepicker",
+                  "htmlwidgets",
+                  "r",
+                  "r-package",
+                  "shiny"
+                ]
+              },
+              "first_seen": "2026-08-31T01:21:41.258Z"
+            },
+            {
+              "node_type": "item",
               "title": "picClip",
               "description": "Paste box input for Shiny, allowing users to paste images from the clipboard.",
               "children": [],
@@ -3548,7 +3576,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T20:29:15Z",
-                "open_issues": 55,
+                "open_issues": 56,
                 "owner": "posit-dev",
                 "repo": "shinychat",
                 "stars": 137,
@@ -3683,7 +3711,7 @@
                 "language": "R",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-26T17:30:48Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "ddsjoberg",
                 "repo": "gtsummary",
                 "stars": 1208,
@@ -3767,7 +3795,7 @@
                 "id": 178748690,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-06-16T03:48:16Z",
+                "last_commit": "2026-08-30T06:32:35Z",
                 "open_issues": 162,
                 "owner": "glin",
                 "repo": "reactable",
@@ -3867,6 +3895,27 @@
                 ]
               },
               "first_seen": "2026-08-28T06:55:00.999Z"
+            },
+            {
+              "node_type": "item",
+              "title": "rpivotTable",
+              "description": "Interactive drag-and-drop pivot tables using PivotTable.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A R wrapper for the great library pivottable",
+                "homepage": null,
+                "id": 29475710,
+                "language": "R",
+                "license": "NOASSERTION",
+                "last_commit": "2023-11-03T21:37:56Z",
+                "open_issues": 41,
+                "owner": "smartinsightsfromdata",
+                "repo": "rpivotTable",
+                "stars": 289,
+                "topics": []
+              },
+              "first_seen": "2026-08-31T01:21:41.258Z"
             },
             {
               "node_type": "item",
@@ -6879,6 +6928,27 @@
             },
             {
               "node_type": "item",
+              "title": "rewind",
+              "description": "Add user-facing undo and redo history for Shiny inputs and reactive state, with keyboard, button, and visual history controls.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Undo and redo for Shiny applications",
+                "homepage": null,
+                "id": 1332263434,
+                "language": "R",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:58:49Z",
+                "open_issues": 0,
+                "owner": "tenmeh",
+                "repo": "rewind",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-08-31T01:21:41.258Z"
+            },
+            {
+              "node_type": "item",
               "title": "shinyReports",
               "description": "Render R Markdown reports to HTML and open them in a new browser tab.",
               "children": [],
@@ -6907,6 +6977,37 @@
           "description": null,
           "node_type": "group",
           "title": "Advanced Interactivity"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "shinygenui",
+              "description": "Build and update Shiny interfaces through conversations with a large language model.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Generative UI for Shiny",
+                "homepage": "https://nanx.me/shinygenui/",
+                "id": 1348170139,
+                "language": "R",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-30T10:05:06Z",
+                "open_issues": 1,
+                "owner": "nanxstats",
+                "repo": "shinygenui",
+                "stars": 0,
+                "topics": [
+                  "generative-ui",
+                  "shiny"
+                ]
+              },
+              "first_seen": "2026-08-31T01:21:41.258Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Generative UI"
         }
       ],
       "title": "UI Components"
@@ -6985,7 +7086,7 @@
                 "open_issues": 39,
                 "owner": "jbkunst",
                 "repo": "highcharter",
-                "stars": 738,
+                "stars": 739,
                 "topics": [
                   "cran",
                   "highcharts",
@@ -7115,7 +7216,7 @@
                 "language": "R",
                 "license": null,
                 "last_commit": "2026-08-28T20:18:54Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "neuhausi",
                 "repo": "canvasXpress",
                 "stars": 313,
@@ -10562,8 +10663,8 @@
                 "id": 1068783486,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-25T23:11:27Z",
-                "open_issues": 6,
+                "last_commit": "2026-08-30T21:24:03Z",
+                "open_issues": 7,
                 "owner": "Epi-interactive-Ltd",
                 "repo": "toro",
                 "stars": 2,
@@ -10993,7 +11094,7 @@
                 "id": 124605775,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T10:20:17Z",
+                "last_commit": "2026-08-30T09:14:52Z",
                 "open_issues": 7,
                 "owner": "gladkia",
                 "repo": "igvShiny",
@@ -11906,18 +12007,18 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A reactive web framework built on shiny",
+                "description": "A bslib continuation. ",
                 "homepage": "https://nteetor.github.io/yonder/",
                 "id": 95173969,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T06:16:43Z",
+                "last_commit": "2026-08-30T14:14:16Z",
                 "open_issues": 26,
                 "owner": "nteetor",
                 "repo": "yonder",
                 "stars": 136,
                 "topics": [
-                  "bootstrap-4",
+                  "bslib",
                   "r",
                   "reactive",
                   "shiny",
@@ -12473,7 +12574,7 @@
                 "language": "R",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T20:58:44Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "j-andrews7",
                 "repo": "VizModules",
                 "stars": 3,
@@ -12611,7 +12712,7 @@
                 "language": "R",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-28T15:35:53Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "BristolMyersSquibb",
                 "repo": "blockr.dock",
                 "stars": 0,
@@ -13860,7 +13961,7 @@
                 "id": 89657511,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T15:37:32Z",
+                "last_commit": "2026-08-30T15:19:56Z",
                 "open_issues": 37,
                 "owner": "tidyverse",
                 "repo": "googlesheets4",
@@ -13886,7 +13987,7 @@
                 "id": 89535184,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T17:25:07Z",
+                "last_commit": "2026-08-30T17:48:09Z",
                 "open_issues": 41,
                 "owner": "tidyverse",
                 "repo": "googledrive",
@@ -14030,7 +14131,7 @@
                 "open_issues": 258,
                 "owner": "nativefier",
                 "repo": "nativefier",
-                "stars": 35284,
+                "stars": 35282,
                 "topics": [
                   "desktop-application",
                   "electron",
@@ -14460,7 +14561,7 @@
                 "open_issues": 71,
                 "owner": "klmr",
                 "repo": "box",
-                "stars": 975,
+                "stars": 976,
                 "topics": [
                   "modules",
                   "packages",
@@ -15455,7 +15556,7 @@
                 "open_issues": 217,
                 "owner": "rstudio",
                 "repo": "renv",
-                "stars": 1161,
+                "stars": 1162,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:00.999Z"
@@ -15557,7 +15658,7 @@
                 "open_issues": 37,
                 "owner": "posit-dev",
                 "repo": "brand-yml",
-                "stars": 110,
+                "stars": 111,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:00.999Z"
@@ -15749,7 +15850,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T20:29:15Z",
-                "open_issues": 55,
+                "open_issues": 56,
                 "owner": "posit-dev",
                 "repo": "shinychat",
                 "stars": 137,
@@ -16017,7 +16118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:13:46.443Z",
+    "last_updated": "2026-08-31T01:21:41.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "🐝 Awesome R and Python packages offering extended UI or server components for the web framework Shiny",
@@ -16025,7 +16126,7 @@
       "id": 160253241,
       "language": "R",
       "license": "CC0-1.0",
-      "last_commit": "2026-08-07T04:33:11Z",
+      "last_commit": "2026-08-30T04:52:35Z",
       "open_issues": 0,
       "owner": "nanxstats",
       "repo": "awesome-shiny-extensions",
@@ -16041,7 +16142,7 @@
         "shiny-themes"
       ]
     },
-    "original_repository_sha": "18b817722ddcf94145b2b47d49ad9d24808b22f4",
+    "original_repository_sha": "85ab2495c66ef322c50d8ead2af1ac6818729cc9",
     "enhanced_repository": "enhansome/enhansome-shiny-extensions",
     "enhanced_repository_description": null,
     "title": "Awesome Shiny Extensions with stars"
