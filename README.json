@@ -1434,8 +1434,8 @@
                 "id": 1174657293,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T19:36:31Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-20T00:22:37Z",
+                "open_issues": 1,
                 "owner": "PrigasG",
                 "repo": "glasstabs",
                 "stars": 2,
@@ -1978,6 +1978,30 @@
             },
             {
               "node_type": "item",
+              "title": "shinyfilters",
+              "description": "Create Shiny inputs from vectors, data frames, or any R object.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Create shiny inputs from vectors, data.frames, or any R object",
+                "homepage": "https://joshwlivingston.github.io/shinyfilters/",
+                "id": 1107710771,
+                "language": "R",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-19T20:03:50Z",
+                "open_issues": 20,
+                "owner": "joshwlivingston",
+                "repo": "shinyfilters",
+                "stars": 9,
+                "topics": [
+                  "r",
+                  "shiny"
+                ]
+              },
+              "first_seen": "2026-08-28T06:55:00.999Z"
+            },
+            {
+              "node_type": "item",
               "title": "cascadeSelect",
               "description": "Cascade select widget for Shiny, useful for selection of hierarchical choices.",
               "children": [],
@@ -1996,30 +2020,6 @@
                 "topics": [
                   "r",
                   "reactr",
-                  "shiny"
-                ]
-              },
-              "first_seen": "2026-08-28T06:55:00.999Z"
-            },
-            {
-              "node_type": "item",
-              "title": "shinyfilters",
-              "description": "Create Shiny inputs from vectors, data frames, or any R object.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Create shiny inputs from vectors, data.frames, or any R object",
-                "homepage": "https://joshwlivingston.github.io/shinyfilters/",
-                "id": 1107710771,
-                "language": "R",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-15T15:00:21Z",
-                "open_issues": 20,
-                "owner": "joshwlivingston",
-                "repo": "shinyfilters",
-                "stars": 8,
-                "topics": [
-                  "r",
                   "shiny"
                 ]
               },
@@ -3621,7 +3621,7 @@
                 "open_issues": 35,
                 "owner": "posit-dev",
                 "repo": "commons",
-                "stars": 44,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-09-16T01:22:49.961Z"
@@ -4507,8 +4507,8 @@
                 "id": 1052794384,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-06-29T12:12:19Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-19T13:58:20Z",
+                "open_issues": 0,
                 "owner": "StrategicProjects",
                 "repo": "DT2",
                 "stars": 10,
@@ -8124,8 +8124,8 @@
                 "id": 128548513,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-12T16:23:27Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-19T16:22:38Z",
+                "open_issues": 8,
                 "owner": "mortonanalytics",
                 "repo": "myIO",
                 "stars": 7,
@@ -8261,7 +8261,7 @@
                 "id": 972860246,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-06-09T13:52:23Z",
+                "last_commit": "2026-09-19T20:01:46Z",
                 "open_issues": 0,
                 "owner": "TiRizvanov",
                 "repo": "rMosaic",
@@ -8951,7 +8951,7 @@
                 "open_issues": 5,
                 "owner": "uRosConf",
                 "repo": "voronoiTreemap",
-                "stars": 59,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:00.999Z"
@@ -10864,7 +10864,7 @@
                 "id": 1085939653,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-06-02T14:19:49Z",
+                "last_commit": "2026-09-19T20:01:15Z",
                 "open_issues": 0,
                 "owner": "TiRizvanov",
                 "repo": "rDeckgl",
@@ -13751,8 +13751,8 @@
                 "id": 1084479293,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T08:39:14Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-19T13:03:02Z",
+                "open_issues": 2,
                 "owner": "lukakoning",
                 "repo": "shinyOAuth",
                 "stars": 29,
@@ -14283,7 +14283,7 @@
                 "id": 89657511,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T14:50:38Z",
+                "last_commit": "2026-09-19T14:11:27Z",
                 "open_issues": 37,
                 "owner": "tidyverse",
                 "repo": "googlesheets4",
@@ -14309,7 +14309,7 @@
                 "id": 89535184,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T17:15:19Z",
+                "last_commit": "2026-09-19T16:47:59Z",
                 "open_issues": 44,
                 "owner": "tidyverse",
                 "repo": "googledrive",
@@ -15874,7 +15874,7 @@
                 "id": 159560389,
                 "language": "R",
                 "license": "MIT",
-                "last_commit": "2026-09-18T22:32:58Z",
+                "last_commit": "2026-09-19T07:10:31Z",
                 "open_issues": 219,
                 "owner": "rstudio",
                 "repo": "renv",
@@ -16220,11 +16220,11 @@
                 "id": 489481382,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-14T04:34:25Z",
-                "open_issues": 114,
+                "last_commit": "2026-09-19T10:25:51Z",
+                "open_issues": 115,
                 "owner": "posit-dev",
                 "repo": "great-tables",
-                "stars": 2807,
+                "stars": 2824,
                 "topics": [
                   "easy-to-use",
                   "formatting-data",
@@ -16440,7 +16440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T01:08:44.617Z",
+    "last_updated": "2026-09-20T01:03:52.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "🐝 Awesome R and Python packages offering extended UI or server components for the web framework Shiny",
