@@ -9,7 +9,7 @@
 
 # Awesome Shiny Extensions with stars
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,759 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,800 | 🐛 106 | 📅 2026-09-02
 
 A curated list of awesome R and Python packages offering extended UI or
 server components to the web framework [Shiny](https://shiny.posit.co/).
@@ -19,7 +19,7 @@ add packages to the list.
 
 <hr>
 
-* Inspired by: [awesome-react-components](https://github.com/brillout/awesome-react-components) ⭐ 48,534 | 🐛 98 | 📅 2026-01-26 and [awesome-rshiny](https://github.com/grabear/awesome-rshiny) ⭐ 871 | 🐛 7 | 🌐 R | 📅 2022-10-07.
+* Inspired by: [awesome-react-components](https://github.com/brillout/awesome-react-components) ⭐ 48,537 | 🐛 98 | 📅 2026-01-26 and [awesome-rshiny](https://github.com/grabear/awesome-rshiny) ⭐ 871 | 🐛 7 | 🌐 R | 📅 2022-10-07.
 * Please send pull requests: [contributing guide](.github/CONTRIBUTING.md) and [code of conduct](.github/CODE-OF-CONDUCT.md).
 * A special thanks to all the package authors for making the world a better place!
 
@@ -615,7 +615,7 @@ add packages to the list.
 * [Rmarkmap](https://github.com/seifer08ms/Rmarkmap) ⭐ 12 | 🐛 1 | 🌐 JavaScript | 📅 2017-03-02 - Create interactive mind maps with the markmap JavaScript library.
 * [shinyCheckboxTree](https://github.com/stla/shinyCheckboxTree) ⭐ 7 | 🐛 12 | 🌐 R | 📅 2023-01-06 - Checkbox tree widget for Shiny. Wrapper of the JavaScript library react-checkbox-tree.
 * [nivo.bubblechart](https://github.com/DataRacerEdu/nivo.bubblechart) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-14 - Nivo circle packing htmlwidget for hierarchical bubble charts in Shiny.
-* [heattree](https://github.com/grunwaldlab/heattree) ⭐ 3 | 🐛 3 | 🌐 R | 📅 2026-05-08 - Interactive phylogenetic tree visualization.
+* [heattree](https://github.com/grunwaldlab/heattree) ⭐ 4 | 🐛 3 | 🌐 R | 📅 2026-05-08 - Interactive phylogenetic tree visualization.
 * [muiTreeView](https://github.com/lgnbhl/muiTreeView) ⭐ 2 | 🐛 5 | 🌐 R | 📅 2026-10-02 - MUI X Tree View for Shiny apps and Quarto, a React component for navigating expandable, collapsible hierarchical lists.
 * [sunburstShinyWidget](https://github.com/Tazovsky/sunburstShinyWidget) ⭐ 0 | 🐛 0 | 🌐 R | 📅 2026-02-15 - D3-based sunburst htmlwidget for hierarchical data in Shiny.
 
@@ -869,7 +869,7 @@ add packages to the list.
 * [googleAuthR](https://github.com/MarkEdmondson1234/googleAuthR) ⭐ 181 | 🐛 48 | 🌐 R | 📅 2025-11-28 - Shiny compatible Google API client for authentication with OAuth2.
 * [firebase](https://github.com/JohnCoene/firebase) ⭐ 169 | 🐛 13 | 🌐 R | 📅 2025-07-09 - Authenticate Shiny users with Google Firebase.
 * [auth0](https://github.com/curso-r/auth0) ⭐ 166 | 🐛 32 | 🌐 R | 📅 2026-04-13 - Authentication in Shiny apps using Auth0.
-* [gargle](https://github.com/r-lib/gargle) ⭐ 114 | 🐛 35 | 🌐 R | 📅 2026-10-03 - Infrastructure for calling Google APIs from R, including auth.
+* [gargle](https://github.com/r-lib/gargle) ⭐ 114 | 🐛 36 | 🌐 R | 📅 2026-10-03 - Infrastructure for calling Google APIs from R, including auth.
 * [tapLock](https://github.com/ixpantia/tapLock) ⭐ 39 | 🐛 4 | 🌐 Rust | 📅 2025-12-13 - Seamless Single Sign-On for Shiny.
 * [login](https://github.com/jbryer/login) ⭐ 30 | 🐛 4 | 🌐 R | 📅 2025-05-16 - Shiny login module providing customizable login/logout UI.
 * [shinyOAuth](https://github.com/lukakoning/shinyOAuth) ⭐ 29 | 🐛 2 | 🌐 R | 📅 2026-09-29 - Provider-agnostic OAuth authentication for Shiny applications.
