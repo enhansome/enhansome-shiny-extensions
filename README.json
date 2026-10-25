@@ -234,7 +234,7 @@
                 "id": 192864104,
                 "language": "R",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T20:03:58Z",
+                "last_commit": "2026-10-24T20:44:58Z",
                 "open_issues": 17,
                 "owner": "dfe-analytical-services",
                 "repo": "shinyGovstyle",
@@ -3795,7 +3795,7 @@
                 "open_issues": 265,
                 "owner": "rstudio",
                 "repo": "gt",
-                "stars": 2163,
+                "stars": 2162,
                 "topics": [
                   "docx",
                   "easy-to-use",
@@ -5356,33 +5356,6 @@
             },
             {
               "node_type": "item",
-              "title": "rintimg",
-              "description": "View an image in full screen by clicking on it.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": " View an image in full screen by clicking on it",
-                "homepage": null,
-                "id": 298597261,
-                "language": "R",
-                "license": "NOASSERTION",
-                "last_commit": "2025-04-07T15:15:34Z",
-                "open_issues": 1,
-                "owner": "feddelegrand7",
-                "repo": "rintimg",
-                "stars": 5,
-                "topics": [
-                  "javascript",
-                  "r",
-                  "rmarkdown",
-                  "rstats",
-                  "shiny"
-                ]
-              },
-              "first_seen": "2026-08-28T06:55:00.999Z"
-            },
-            {
-              "node_type": "item",
               "title": "annotator",
               "description": "Image annotation and polygon outlining htmlwidget using free drawing.",
               "children": [],
@@ -5399,6 +5372,33 @@
                 "repo": "annotator",
                 "stars": 4,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T06:55:00.999Z"
+            },
+            {
+              "node_type": "item",
+              "title": "rintimg",
+              "description": "View an image in full screen by clicking on it.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": " View an image in full screen by clicking on it",
+                "homepage": null,
+                "id": 298597261,
+                "language": "R",
+                "license": "NOASSERTION",
+                "last_commit": "2025-04-07T15:15:34Z",
+                "open_issues": 1,
+                "owner": "feddelegrand7",
+                "repo": "rintimg",
+                "stars": 4,
+                "topics": [
+                  "javascript",
+                  "r",
+                  "rmarkdown",
+                  "rstats",
+                  "shiny"
+                ]
               },
               "first_seen": "2026-08-28T06:55:00.999Z"
             },
@@ -7406,7 +7406,7 @@
                 "language": "R",
                 "license": null,
                 "last_commit": "2026-10-23T21:05:37Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "neuhausi",
                 "repo": "canvasXpress",
                 "stars": 317,
@@ -8203,32 +8203,6 @@
             },
             {
               "node_type": "item",
-              "title": "myIO",
-              "description": "Composable D3 htmlwidget chart system.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Open Source Project to illustrate R+ d3.js DOM manipulation and plotting",
-                "homepage": null,
-                "id": 128548513,
-                "language": "JavaScript",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-22T02:52:10Z",
-                "open_issues": 10,
-                "owner": "mortonanalytics",
-                "repo": "myIO",
-                "stars": 7,
-                "topics": [
-                  "d3",
-                  "d3v4",
-                  "htmlwidgets",
-                  "r"
-                ]
-              },
-              "first_seen": "2026-08-28T06:55:00.999Z"
-            },
-            {
-              "node_type": "item",
               "title": "maidr",
               "description": "Multimodal access and interactive data representation with accessibility features.",
               "children": [],
@@ -8243,7 +8217,7 @@
                 "open_issues": 2,
                 "owner": "xability",
                 "repo": "r-maidr",
-                "stars": 6,
+                "stars": 7,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -8265,6 +8239,32 @@
                   "sonification",
                   "visualization",
                   "visually-impaired"
+                ]
+              },
+              "first_seen": "2026-08-28T06:55:00.999Z"
+            },
+            {
+              "node_type": "item",
+              "title": "myIO",
+              "description": "Composable D3 htmlwidget chart system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open Source Project to illustrate R+ d3.js DOM manipulation and plotting",
+                "homepage": null,
+                "id": 128548513,
+                "language": "JavaScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-25T01:03:58Z",
+                "open_issues": 16,
+                "owner": "mortonanalytics",
+                "repo": "myIO",
+                "stars": 7,
+                "topics": [
+                  "d3",
+                  "d3v4",
+                  "htmlwidgets",
+                  "r"
                 ]
               },
               "first_seen": "2026-08-28T06:55:00.999Z"
@@ -9906,7 +9906,7 @@
                 "open_issues": 39,
                 "owner": "talgalili",
                 "repo": "heatmaply",
-                "stars": 412,
+                "stars": 411,
                 "topics": [
                   "cran",
                   "d3-heatmap",
@@ -10287,7 +10287,7 @@
                 "open_issues": 25,
                 "owner": "walkerke",
                 "repo": "mapgl",
-                "stars": 172,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:00.999Z"
@@ -11307,7 +11307,7 @@
                 "id": 667194362,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T19:24:06Z",
+                "last_commit": "2026-10-24T16:05:58Z",
                 "open_issues": 3,
                 "owner": "nvelden",
                 "repo": "geneviewer",
@@ -11433,7 +11433,7 @@
                 "id": 124605775,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T08:34:02Z",
+                "last_commit": "2026-10-24T08:07:45Z",
                 "open_issues": 6,
                 "owner": "gladkia",
                 "repo": "igvShiny",
@@ -12479,7 +12479,7 @@
                 "language": "R",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-20T19:42:08Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "BristolMyersSquibb",
                 "repo": "blockr.core",
                 "stars": 16,
@@ -13130,7 +13130,7 @@
                 "language": "R",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-23T12:48:17Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "BristolMyersSquibb",
                 "repo": "blockr.dock",
                 "stars": 0,
@@ -13151,7 +13151,7 @@
                 "language": "R",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-19T16:37:06Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "BristolMyersSquibb",
                 "repo": "blockr.session",
                 "stars": 0,
@@ -13889,7 +13889,7 @@
                 "id": 1084479293,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T20:47:51Z",
+                "last_commit": "2026-10-24T22:03:03Z",
                 "open_issues": 2,
                 "owner": "lukakoning",
                 "repo": "shinyOAuth",
@@ -14421,7 +14421,7 @@
                 "id": 89657511,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T01:07:51Z",
+                "last_commit": "2026-10-24T14:19:27Z",
                 "open_issues": 36,
                 "owner": "tidyverse",
                 "repo": "googlesheets4",
@@ -14447,8 +14447,8 @@
                 "id": 89535184,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T01:01:48Z",
-                "open_issues": 34,
+                "last_commit": "2026-10-24T16:57:21Z",
+                "open_issues": 35,
                 "owner": "tidyverse",
                 "repo": "googledrive",
                 "stars": 348,
@@ -14591,7 +14591,7 @@
                 "open_issues": 258,
                 "owner": "nativefier",
                 "repo": "nativefier",
-                "stars": 35229,
+                "stars": 35228,
                 "topics": [
                   "desktop-application",
                   "electron",
@@ -15021,7 +15021,7 @@
                 "open_issues": 72,
                 "owner": "klmr",
                 "repo": "box",
-                "stars": 986,
+                "stars": 987,
                 "topics": [
                   "modules",
                   "packages",
@@ -16358,11 +16358,11 @@
                 "id": 489481382,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-23T22:59:31Z",
+                "last_commit": "2026-10-24T22:18:14Z",
                 "open_issues": 78,
                 "owner": "posit-dev",
                 "repo": "great-tables",
-                "stars": 2909,
+                "stars": 2911,
                 "topics": [
                   "easy-to-use",
                   "formatting-data",
@@ -16530,7 +16530,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-23T20:35:46Z",
-                "open_issues": 96,
+                "open_issues": 97,
                 "owner": "posit-dev",
                 "repo": "rsconnect-python",
                 "stars": 38,
@@ -16578,7 +16578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:33:02.742Z",
+    "last_updated": "2026-10-25T01:05:37.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "🐝 Awesome R and Python packages offering extended UI or server components for the web framework Shiny",
