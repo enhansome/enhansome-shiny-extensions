@@ -9,7 +9,7 @@
 
 # Awesome Shiny Extensions with stars
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 533,254 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 533,919 | 🐛 103 | 📅 2026-09-02
 
 A curated list of awesome R and Python packages offering extended UI or
 server components to the web framework [Shiny](https://shiny.posit.co/).
@@ -19,7 +19,7 @@ add packages to the list.
 
 <hr>
 
-* Inspired by: [awesome-react-components](https://github.com/brillout/awesome-react-components) ⭐ 48,825 | 🐛 124 | 📅 2026-01-26 and [awesome-rshiny](https://github.com/grabear/awesome-rshiny) ⭐ 874 | 🐛 7 | 🌐 R | 📅 2022-10-07.
+* Inspired by: [awesome-react-components](https://github.com/brillout/awesome-react-components) ⭐ 48,834 | 🐛 126 | 📅 2026-01-26 and [awesome-rshiny](https://github.com/grabear/awesome-rshiny) ⭐ 874 | 🐛 7 | 🌐 R | 📅 2022-10-07.
 * Please send pull requests: [contributing guide](.github/CONTRIBUTING.md) and [code of conduct](.github/CODE-OF-CONDUCT.md).
 * A special thanks to all the package authors for making the world a better place!
 
@@ -176,7 +176,7 @@ add packages to the list.
 * [gfonts](https://github.com/dreamRs/gfonts) ⭐ 115 | 🐛 2 | 🌐 R | 📅 2026-09-23 - Offline Google Fonts for Markdown and Shiny.
 * [sass](https://github.com/rstudio/sass) ⭐ 103 | 🐛 22 | 🌐 C++ | 📅 2026-11-02 - Compile Sass for dynamic style sheets.
 * [linne](https://github.com/JohnCoene/linne) ⭐ 78 | 🐛 0 | 🌐 R | 📅 2022-01-15 - Write CSS in R.
-* [gdtools](https://github.com/davidgohel/gdtools) ⭐ 33 | 🐛 0 | 🌐 R | 📅 2026-11-05 - Embed Google Fonts and Liberation fonts in Shiny apps.
+* [gdtools](https://github.com/davidgohel/gdtools) ⭐ 34 | 🐛 0 | 🌐 R | 📅 2026-11-05 - Embed Google Fonts and Liberation fonts in Shiny apps.
 * [Rnightly](https://github.com/feddelegrand7/Rnightly) ⭐ 22 | 🐛 1 | 🌐 R | 📅 2020-12-12 - An R wrapper of the JavaScript library Nightly.
 * [cascadess](https://github.com/nteetor/cascadess) ⭐ 18 | 🐛 3 | 🌐 R | 📅 2026-01-22 - Style-pronoun utilities for applying CSS to htmltools and Shiny tags.
 * [corazon](https://github.com/feddelegrand7/corazon) ⭐ 3 | 🐛 1 | 🌐 R | 📅 2020-12-10 - Apply colorffy gradients to Shiny elements.
@@ -271,7 +271,7 @@ add packages to the list.
 * [shiny.emptystate](https://github.com/Appsilon/shiny.emptystate) ⭐ 28 | 🐛 6 | 🌐 R | 📅 2024-05-21 - Empty state components for Shiny.
 * [shiny-loading-skeleton](https://github.com/nanxstats/shiny-loading-skeleton) ⭐ 9 | 🐛 0 | 🌐 R | 📅 2022-04-25 - Shiny app template with an animated, fully customizable skeleton loader.
 * [standby](https://github.com/rsquaredacademy/standby) ⭐ 7 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-04 - Alerts, notifications, and loading screens for Shiny.
-* [bones](https://github.com/tenmeh/bones) ⭐ 6 | 🐛 9 | 🌐 R | 📅 2026-11-04 - Skeleton placeholders in the shape of the content for Shiny outputs, in place of a spinner.
+* [bones](https://github.com/tenmeh/bones) ⭐ 6 | 🐛 9 | 🌐 R | 📅 2026-11-08 - Skeleton placeholders in the shape of the content for Shiny outputs, in place of a spinner.
 * [shiny-fcp-loader](https://github.com/nanxstats/shiny-fcp-loader) ⭐ 3 | 🐛 0 | 🌐 R | 📅 2023-01-28 - Shiny app template with a loading screen that aims to minimize the time to First Contentful Paint (FCP).
 
 ### Feedback / Alert / Notification
@@ -309,7 +309,7 @@ add packages to the list.
 
 ### Editor
 
-* [DataEditR](https://github.com/DillonHammill/DataEditR) ⭐ 389 | 🐛 30 | 🌐 HTML | 📅 2026-11-03 - Interactive data editor for Shiny with modules for editing, filtering, and syncing data.
+* [DataEditR](https://github.com/DillonHammill/DataEditR) ⭐ 389 | 🐛 0 | 🌐 R | 📅 2026-11-09 - Interactive data editor for Shiny with modules for editing, filtering, and syncing data.
 * [shinyAce](https://github.com/trestletech/shinyAce) ⭐ 227 | 🐛 14 | 🌐 R | 📅 2025-02-02 - Ace code editor bindings for Shiny.
 * [sqlquery](https://github.com/dreamRs/sqlquery) ⭐ 29 | 🐛 2 | 🌐 JavaScript | 📅 2018-05-09 - HTML widget for writing SQL queries with autocompletion for SQL keywords and table/field names.
 * [shinyMCE](https://github.com/mul118/shinyMCE) ⭐ 19 | 🐛 5 | 🌐 HTML | 📅 2021-09-19 - TinyMCE WYSIWYG editor bindings for Shiny.
@@ -328,7 +328,7 @@ add packages to the list.
 * [chattr](https://github.com/mlverse/chattr) ⭐ 249 | 🐛 24 | 🌐 R | 📅 2025-11-11 - Interact with large language models (LLMs) in RStudio through the R console or Shiny gadget.
 * [querychat](https://github.com/posit-dev/querychat) ⭐ 213 | 🐛 34 | 🌐 Python | 📅 2026-10-27 - Filter and query data frames in Shiny using an LLM chat interface.
 * [shinychat](https://github.com/posit-dev/shinychat) ⭐ 144 | 🐛 72 | 🌐 Python | 📅 2026-11-07 - Chat UI component for Shiny.
-* [commons](https://github.com/posit-dev/commons) ⭐ 71 | 🐛 48 | 🌐 Python | 📅 2026-11-07 - Build data analysis agents backed by trusted calculations and searchable context, with server components for custom Shiny chat apps.
+* [commons](https://github.com/posit-dev/commons) ⭐ 72 | 🐛 52 | 🌐 Python | 📅 2026-11-08 - Build data analysis agents backed by trusted calculations and searchable context, with server components for custom Shiny chat apps.
 * [shinyChatR](https://github.com/julianschmocker/shinyChatR) ⭐ 26 | 🐛 1 | 🌐 R | 📅 2024-05-25 - Reusable chat module for Shiny apps. Allows sending messages and view messages from other users. Messages can be stored in a database or a `.rds` file.
 * [shiny.ollama](https://github.com/ineelhere/shiny.ollama) ⭐ 22 | 🐛 0 | 🌐 R | 📅 2025-03-12 - Shiny interface for chatting with large language models offline using Ollama.
 * [LLMR.shiny](https://github.com/asanaei/LLMR.shiny) ⭐ 0 | 🐛 0 | 🌐 R | 📅 2026-10-30 - Shiny modules for LLM-powered GUIs, including provider and model selection, API-key handling, session cost tracking, and error and report displays.
@@ -340,7 +340,7 @@ add packages to the list.
 * [kableExtra](https://github.com/haozhu233/kableExtra) ⭐ 740 | 🐛 145 | 🌐 R | 📅 2026-10-25 - Construct complex table with `knitr::kable()` and pipes.
 * [formattable](https://github.com/renkun-ken/formattable) ⭐ 700 | 🐛 66 | 🌐 HTML | 📅 2026-10-10 - Table elements formatting and styling for R Markdown documents and Shiny apps.
 * [reactable](https://github.com/glin/reactable) ⭐ 680 | 🐛 163 | 🌐 JavaScript | 📅 2026-11-03 - Interactive data tables for R, based on the React Table library and made with reactR.
-* [flextable](https://github.com/davidgohel/flextable) ⭐ 629 | 🐛 13 | 🌐 R | 📅 2026-11-07 - Create tables for reporting with format and layout control.
+* [flextable](https://github.com/davidgohel/flextable) ⭐ 630 | 🐛 12 | 🌐 R | 📅 2026-11-08 - Create tables for reporting with format and layout control.
 * [DT](https://github.com/rstudio/DT) ⭐ 621 | 🐛 207 | 🌐 JavaScript | 📅 2026-05-18 - R interface to the DataTables library.
 * [rhandsontable](https://github.com/jrowen/rhandsontable) ⭐ 390 | 🐛 167 | 🌐 HTML | 📅 2024-07-23 - Create Excel-like editable tables in Shiny apps.
 * [rpivotTable](https://github.com/smartinsightsfromdata/rpivotTable) ⭐ 288 | 🐛 41 | 🌐 R | 📅 2023-11-03 - Interactive drag-and-drop pivot tables using PivotTable.js.
@@ -480,7 +480,7 @@ add packages to the list.
 
 * [reactR](https://github.com/react-R/reactR) ⭐ 419 | 🐛 14 | 🌐 JavaScript | 📅 2025-06-23 - Use React in R with htmlwidget constructor templates and local JavaScript dependencies.
 * [shiny.react](https://github.com/Appsilon/shiny.react) ⭐ 103 | 🐛 20 | 🌐 JavaScript | 📅 2024-05-20 - Tools for using React in Shiny.
-* [shinyreact](https://github.com/posit-dev/shinyreact) ⭐ 29 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-26 - Build Shiny apps with React frontends, reactive data outputs, and custom messages from R.
+* [shinyreact](https://github.com/posit-dev/shinyreact) ⭐ 30 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-26 - Build Shiny apps with React frontends, reactive data outputs, and custom messages from R.
 * [shinyReactWidgets](https://github.com/pvictor/shinyReactWidgets) ⭐ 19 | 🐛 1 | 🌐 R | 📅 2019-03-18 - React widgets for Shiny apps.
 * [reactRouter](https://github.com/lgnbhl/reactRouter) ⭐ 14 | 🐛 1 | 🌐 R | 📅 2026-10-23 - React Router for Shiny apps and Quarto.
 
@@ -533,7 +533,7 @@ add packages to the list.
 * [GWalkR](https://github.com/Kanaries/GWalkR) ⭐ 556 | 🐛 14 | 🌐 TypeScript | 📅 2025-07-03 - Interactive Tableau-like exploratory data analysis htmlwidget for Shiny.
 * [r2d3](https://github.com/rstudio/r2d3) ⭐ 529 | 🐛 40 | 🌐 R | 📅 2024-01-09 - R interface to D3 visualizations.
 * [googleVis](https://github.com/mages/googleVis) ⭐ 362 | 🐛 33 | 🌐 R | 📅 2025-10-08 - R interface to Google Charts.
-* [canvasXpress](https://github.com/neuhausi/canvasXpress) ⭐ 317 | 🐛 1 | 🌐 R | 📅 2026-11-06 - Interactive visualization for scientific and biomedical research using CanvasXpress.
+* [canvasXpress](https://github.com/neuhausi/canvasXpress) ⭐ 317 | 🐛 1 | 🌐 R | 📅 2026-11-08 - Interactive visualization for scientific and biomedical research using CanvasXpress.
 * [rbokeh](https://github.com/bokeh/rbokeh) ⚠️ Archived - R interface for Bokeh.
 * [visachartR](https://github.com/visa/visa-chart-components/tree/main/packages/charts-R) ⭐ 190 | 🐛 5 | 🌐 TypeScript | 📅 2026-04-15 - Accessibility-focused htmlwidget wrappers for Visa Chart Components.
 * [billboarder](https://github.com/dreamRs/billboarder) ⭐ 177 | 🐛 11 | 🌐 R | 📅 2026-09-23 - HTML widget for billboard.js.
@@ -548,8 +548,8 @@ add packages to the list.
 * [ggcube](https://github.com/matthewkling/ggcube) ⭐ 59 | 🐛 3 | 🌐 R | 📅 2026-11-04 - Create layered 3D figures with ggplot2, including drag-to-rotate htmlwidgets with Shiny output bindings.
 * [lineupjs](https://github.com/lineupjs/lineup_htmlwidget) ⭐ 55 | 🐛 4 | 🌐 R | 📅 2026-02-28 - LineUp.js htmlwidget for interactive visual analysis of multi-attribute rankings.
 * [d3po](https://github.com/pachadotdev/d3po) ⭐ 51 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-22 - Fast and beautiful interactive visualization for R Markdown and Shiny. Acts as intermediate layer between Shiny and D3 by providing templates.
+* [flourishcharts](https://github.com/canva-public/flourishcharts) ⭐ 49 | 🐛 6 | 🌐 R | 📅 2025-12-18 - Flourish htmlwidget for interactive data storytelling charts.
 * [rAmCharts](https://github.com/datastorm-open/rAmCharts) ⭐ 49 | 🐛 16 | 🌐 JavaScript | 📅 2025-01-13 - Interface to the amCharts JavaScript charting library.
-* [flourishcharts](https://github.com/canva-public/flourishcharts) ⭐ 48 | 🐛 6 | 🌐 R | 📅 2025-12-18 - Flourish htmlwidget for interactive data storytelling charts.
 * [c3](https://github.com/mrjoh3/c3) ⭐ 39 | 🐛 5 | 🌐 R | 📅 2026-08-25 - Interactive C3.js charts for R Markdown and Shiny applications.
 * [upsetjs](https://github.com/upsetjs/upsetjs_r) ⭐ 36 | 🐛 7 | 🌐 R | 📅 2023-04-20 - UpSet.js htmlwidget for interactive set intersection visualizations.
 * [rAmCharts4](https://github.com/stla/rAmCharts4) ⭐ 28 | 🐛 8 | 🌐 JavaScript | 📅 2023-03-15 - R interface to amCharts 4.
@@ -563,7 +563,7 @@ add packages to the list.
 * [vchartr](https://github.com/dreamRs/vchartr) ⭐ 9 | 🐛 0 | 🌐 R | 📅 2026-01-08 - Interactive charts with the VChart JavaScript library.
 * [vizdraws](https://github.com/ignacio82/vizdraws) ⭐ 9 | 🐛 6 | 🌐 JavaScript | 📅 2025-06-04 - Interactive visualization of Bayesian prior and posterior distribution draws.
 * [detourr](https://github.com/casperhart/detourr) ⭐ 8 | 🐛 2 | 🌐 HTML | 📅 2026-07-01 - Interactive 2D and 3D scatterplot display.
-* [myIO](https://github.com/mortonanalytics/myIO) ⭐ 8 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-07 - Composable D3 htmlwidget chart system.
+* [myIO](https://github.com/mortonanalytics/myIO) ⭐ 8 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-07 - Composable D3 htmlwidget chart system.
 * [fusionchartsR](https://github.com/alexym1/fusionchartsR) ⭐ 7 | 🐛 1 | 🌐 R | 📅 2026-01-12 - R wrapper for the FusionCharts JavaScript charting library.
 * [maidr](https://github.com/xability/r-maidr) ⭐ 7 | 🐛 5 | 🌐 R | 📅 2026-11-06 - Multimodal access and interactive data representation with accessibility features.
 * [controlcharts](https://github.com/aus-doh-safety-and-quality/controlcharts) ⭐ 6 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-06 - Interactive funnel plots and statistical process control charts.
@@ -649,12 +649,12 @@ add packages to the list.
 
 ### Diagrams
 
-* [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) ⭐ 1,751 | 🐛 172 | 🌐 R | 📅 2026-04-27 - Diagram, graph, and network visualization based on D3.js, viz.js, and mermaid.js.
+* [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) ⭐ 1,750 | 🐛 172 | 🌐 R | 📅 2026-04-27 - Diagram, graph, and network visualization based on D3.js, viz.js, and mermaid.js.
 * [nomnoml](https://github.com/rstudio/nomnoml) ⭐ 221 | 🐛 3 | 🌐 JavaScript | 📅 2024-12-11 - R interface to nomnoml, a tool for drawing sassy UML diagrams based on syntax with customizable styling.
 * [bpmn](https://github.com/bergant/bpmn) ⭐ 19 | 🐛 2 | 🌐 R | 📅 2017-05-15 - R interface to the bpmn-js library.
 * [bpmnVisualizationR](https://github.com/process-analytics/bpmn-visualization-R) ⭐ 19 | 🐛 29 | 🌐 R | 📅 2026-06-23 - BPMN diagram htmlwidget with overlays, styling, and interactions.
 * [processmapR](https://github.com/bupaverse/processmapr) ⭐ 11 | 🐛 23 | 🌐 R | 📅 2026-02-27 - Construct interactive process maps using event data as htmlwidgets.
-* [dplyneage](https://github.com/tgerke/dplyneage) ⭐ 9 | 🐛 0 | 🌐 R | 📅 2026-09-18 - Interactive column lineage diagrams for dplyr and dbplyr pipelines using React Flow.
+* [dplyneage](https://github.com/tgerke/dplyneage) ⭐ 10 | 🐛 0 | 🌐 R | 📅 2026-09-18 - Interactive column lineage diagrams for dplyr and dbplyr pipelines using React Flow.
 * [amVennDiagram5](https://github.com/stla/amVennDiagram5) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-07-29 - Interactive amCharts 5 Venn diagrams for Shiny and R Markdown.
 * [sankeywheel](https://github.com/lqqa/sankeywheel) ⭐ 1 | 🐛 0 | 📅 2022-07-02 - Highcharts-based Sankey diagrams and dependency wheels for Shiny and R Markdown.
 
@@ -678,7 +678,7 @@ add packages to the list.
 * [leaflet.extras](https://github.com/trafficonese/leaflet.extras) ⭐ 224 | 🐛 20 | 🌐 R | 📅 2026-09-17 - Extra functionality for the leaflet package.
 * [mapedit](https://github.com/r-spatial/mapedit) ⭐ 220 | 🐛 37 | 🌐 R | 📅 2026-02-15 - Interactive editing of spatial data.
 * [leafletCN](https://github.com/Lchiffon/leafletCN) ⭐ 200 | 🐛 13 | 🌐 R | 📅 2024-01-17 - China and geojson choropleth maps for Leaflet.
-* [mapgl](https://github.com/walkerke/mapgl) ⭐ 174 | 🐛 28 | 🌐 R | 📅 2026-11-05 - Interactive maps using Mapbox GL JS and MapLibre GL JS.
+* [mapgl](https://github.com/walkerke/mapgl) ⭐ 174 | 🐛 28 | 🌐 R | 📅 2026-11-08 - Interactive maps using Mapbox GL JS and MapLibre GL JS.
 * [mapboxapi](https://github.com/walkerke/mapboxapi) ⭐ 125 | 🐛 16 | 🌐 HTML | 📅 2026-01-23 - R interface to Mapbox web services APIs, with a Mapbox Geocoder input widget for Shiny plus tile layers for leaflet and tmap.
 * [leafpop](https://github.com/r-spatial/leafpop) ⭐ 117 | 🐛 10 | 🌐 R | 📅 2025-05-15 - Embed tables, images, and graphs in leaflet popups.
 * [leafem](https://github.com/r-spatial/leafem) ⭐ 111 | 🐛 20 | 🌐 JavaScript | 📅 2025-11-04 - Leaflet and mapdeck extensions for mouse coordinates, image queries, zoom controls, and feature layers.
@@ -737,7 +737,7 @@ add packages to the list.
 * [NGLVieweR](https://github.com/nvelden/NGLVieweR) ⭐ 54 | 🐛 1 | 🌐 R | 📅 2026-10-27 - Interactive 3D visualization of molecular structures using the NGL Viewer JavaScript library.
 * [threeBrain](https://github.com/dipterix/threeBrain) ⭐ 52 | 🐛 0 | 🌐 R | 📅 2026-10-30 - Advanced 3D brain visualization as an htmlwidget.
 * [igvR](https://github.com/gladkia/igvR) ⭐ 46 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-05 - R package providing interactive connections to igv.js running in a web browser.
-* [igvShiny](https://github.com/gladkia/igvShiny) ⭐ 46 | 🐛 5 | 🌐 R | 📅 2026-11-07 - HTML widget for igv.js, a JavaScript library for embeddable genomic visualization.
+* [igvShiny](https://github.com/gladkia/igvShiny) ⭐ 46 | 🐛 5 | 🌐 R | 📅 2026-11-08 - HTML widget for igv.js, a JavaScript library for embeddable genomic visualization.
 * [ggseg3d](https://github.com/ggsegverse/ggseg3d) ⭐ 46 | 🐛 11 | 🌐 R | 📅 2026-11-05 - Interactive Three.js brain atlas meshes visualization.
 * [JBrowseR](https://github.com/GMOD/JBrowseR) ⭐ 40 | 🐛 0 | 🌐 R | 📅 2026-11-03 - R interface to the JBrowse 2 linear genome view.
 * [BioCircos.R](https://github.com/lvulliard/BioCircos.R) ⭐ 38 | 🐛 19 | 🌐 JavaScript | 📅 2019-05-03 - Interactive circular visualization of genomic data using htmlwidgets and BioCircos.js.
@@ -767,10 +767,10 @@ add packages to the list.
 
 ### WebGL
 
-* [rayshader](https://github.com/tylermorganwall/rayshader) ⭐ 2,187 | 🐛 48 | 🌐 R | 📅 2026-11-03 - Create and visualize hillshaded maps from elevation matrices.
+* [rayshader](https://github.com/tylermorganwall/rayshader) ⭐ 2,187 | 🐛 48 | 🌐 R | 📅 2026-11-08 - Create and visualize hillshaded maps from elevation matrices.
 * [rayrender](https://github.com/tylermorganwall/rayrender) ⭐ 645 | 🐛 5 | 🌐 C++ | 📅 2026-11-07 - Build and raytrace 3D scenes.
 * [rgl](https://github.com/dmurdoch/rgl) ⭐ 103 | 🐛 20 | 🌐 C++ | 📅 2026-07-15 - Render WebGL scenes created with the rgl package ([vignette](https://cran.r-project.org/web/packages/rgl/vignettes/WebGL.html)).
-* [rayimage](https://github.com/tylermorganwall/rayimage) ⭐ 65 | 🐛 1 | 🌐 R | 📅 2026-09-27 - Render depth of field for images.
+* [rayimage](https://github.com/tylermorganwall/rayimage) ⭐ 66 | 🐛 1 | 🌐 R | 📅 2026-09-27 - Render depth of field for images.
 * [cubeview](https://github.com/r-spatial/cubeview) ⭐ 25 | 🐛 2 | 🌐 JavaScript | 📅 2025-08-20 - Interactive 3D raster cube viewer.
 * [r3js](https://github.com/shwilks/r3js) ⭐ 14 | 🐛 6 | 🌐 JavaScript | 📅 2025-01-28 - WebGL-based 3D plotting with three.js and Shiny bindings.
 * [ggWebGL](https://github.com/fbertran/ggWebGL) ⭐ 6 | 🐛 0 | 🌐 R | 📅 2026-06-06 - Browser-native WebGL rendering for R graphics.
@@ -796,7 +796,7 @@ add packages to the list.
 * [surveydown](https://github.com/surveydown-dev/surveydown) ⭐ 187 | 🐛 18 | 🌐 R | 📅 2026-06-23 - Markdown-based programmable surveys using Quarto and Shiny, with skip logic, multiple question types, and database storage.
 * [yonder](https://github.com/nteetor/yonder) ⭐ 136 | 🐛 31 | 🌐 R | 📅 2026-10-30 - A reactive web framework built on Shiny with Bootstrap 4.
 * [irid](https://github.com/khusmann/irid) ⭐ 23 | 🐛 5 | 🌐 R | 📅 2026-07-23 - Component-based reactive UI framework for Shiny with fine-grained DOM updates that avoid full re-rendering and update callbacks.
-* [blockr.core](https://github.com/BristolMyersSquibb/blockr.core) ⭐ 16 | 🐛 52 | 🌐 R | 📅 2026-11-06 - Graphical web framework for data manipulation and visualization using reusable, composable blocks.
+* [blockr.core](https://github.com/BristolMyersSquibb/blockr.core) ⭐ 16 | 🐛 68 | 🌐 R | 📅 2026-11-08 - Graphical web framework for data manipulation and visualization using reusable, composable blocks.
 * [aurora](https://github.com/aurora-govpe/aurora-rpkg) ⭐ 2 | 🐛 1 | 🌐 R | 📅 2026-09-29 - Build stateless web apps in R with plumber2 and bslib.
 
 ### Scaffolding
@@ -810,7 +810,7 @@ add packages to the list.
 
 ### Framework extensions
 
-* [teal.modules.clinical](https://github.com/insightsengineering/teal.modules.clinical) ⭐ 43 | 🐛 104 | 🌐 R | 📅 2026-10-28 - A set of teal modules for standard clinical outputs.
+* [teal.modules.clinical](https://github.com/insightsengineering/teal.modules.clinical) ⭐ 43 | 🐛 104 | 🌐 R | 📅 2026-11-08 - A set of teal modules for standard clinical outputs.
 * [mwshiny](https://github.com/delosh653/mwshiny) ⭐ 26 | 🐛 2 | 🌐 R | 📅 2020-06-08 - Run a Shiny app across multiple connected browser windows.
 * [teal.modules.general](https://github.com/insightsengineering/teal.modules.general) ⭐ 17 | 🐛 43 | 🌐 R | 📅 2026-10-18 - General modules for teal applications.
 * [teal.slice](https://github.com/pharmaverse/teal.slice) ⭐ 13 | 🐛 33 | 🌐 R | 📅 2026-10-28 - Filter module for teal applications.
@@ -820,7 +820,7 @@ add packages to the list.
 * [formods](https://github.com/john-harrold/formods) ⭐ 9 | 🐛 13 | 🌐 R | 📅 2026-02-11 - Shiny modules for general tasks including data wrangling, figure generation, and app state management.
 * [teal.logger](https://github.com/pharmaverse/teal.logger) ⭐ 7 | 🐛 4 | 🌐 R | 📅 2026-10-28 - Logging setup for the teal family of packages.
 * [tutorial.helpers](https://github.com/PPBDS/tutorial.helpers) ⭐ 7 | 🐛 0 | 🌐 HTML | 📅 2026-08-15 - Helper functions and Shiny modules for creating, editing, and testing tutorials with learnr, including collecting student submissions.
-* [teal.widgets](https://github.com/pharmaverse/teal.widgets) ⭐ 6 | 🐛 34 | 🌐 R | 📅 2026-11-03 - Shiny widgets for teal applications.
+* [teal.widgets](https://github.com/pharmaverse/teal.widgets) ⭐ 6 | 🐛 34 | 🌐 R | 📅 2026-11-08 - Shiny widgets for teal applications.
 * [uteals](https://github.com/phuse-org/uteals) ⭐ 6 | 🐛 6 | 🌐 R | 📅 2026-10-14 - Shared decorators, transformators, and utility functions that extend teal modules.
 * [VizModules](https://github.com/j-andrews7/VizModules) ⭐ 5 | 🐛 4 | 🌐 R | 📅 2026-11-07 - Flexible Shiny plotting modules for composing interactive visualization apps.
 * [teal.picks](https://github.com/pharmaverse/teal.picks) ⭐ 4 | 🐛 18 | 🌐 R | 📅 2026-10-28 - Dataset and variable picker and merge module for teal applications.
@@ -920,8 +920,8 @@ add packages to the list.
 <!--lint disable awesome-spell-check-->
 
 * [googlesheets](https://github.com/jennybc/googlesheets) ⚠️ Archived - R interface to Google Spreadsheets API (no longer under active development).
-* [googlesheets4](https://github.com/tidyverse/googlesheets4) ⭐ 379 | 🐛 33 | 🌐 R | 📅 2026-11-07 - R interface to Google Sheets via the Sheets API v4.
-* [googledrive](https://github.com/tidyverse/googledrive) ⭐ 348 | 🐛 34 | 🌐 R | 📅 2026-11-07 - R API client for Google Drive.
+* [googlesheets4](https://github.com/tidyverse/googlesheets4) ⭐ 379 | 🐛 33 | 🌐 R | 📅 2026-11-08 - R interface to Google Sheets via the Sheets API v4.
+* [googledrive](https://github.com/tidyverse/googledrive) ⭐ 348 | 🐛 34 | 🌐 R | 📅 2026-11-08 - R API client for Google Drive.
 * [gmailr](https://github.com/r-lib/gmailr) ⭐ 237 | 🐛 23 | 🌐 R | 📅 2026-10-29 - Access the Gmail RESTful API from R.
 
 <!--lint enable awesome-spell-check-->
@@ -968,7 +968,7 @@ add packages to the list.
 
 ### Modularization
 
-* [box](https://github.com/klmr/box) ⭐ 989 | 🐛 72 | 🌐 R | 📅 2026-08-16 - Organize code into hierarchical, composable, reusable modules, to use across projects.
+* [box](https://github.com/klmr/box) ⭐ 990 | 🐛 72 | 🌐 R | 📅 2026-08-16 - Organize code into hierarchical, composable, reusable modules, to use across projects.
 * [packer](https://github.com/JohnCoene/packer) ⭐ 152 | 🐛 12 | 🌐 R | 📅 2025-09-17 - An opinionated framework for using JavaScript with R.
 * [tidymodules](https://github.com/Novartis/tidymodules) ⭐ 145 | 🐛 25 | 🌐 R | 📅 2024-09-05 - An object-oriented approach to Shiny modules.
 * [supreme](https://github.com/strboul/supreme) ⚠️ Archived - Structure Shiny applications developed with modules.
@@ -1038,7 +1038,7 @@ add packages to the list.
 
 ### Dependency Resolution
 
-* [renv](https://github.com/rstudio/renv) ⭐ 1,166 | 🐛 200 | 🌐 R | 📅 2026-10-27 - Create isolated, portable, and reproducible environments for R projects.
+* [renv](https://github.com/rstudio/renv) ⭐ 1,166 | 🐛 199 | 🌐 R | 📅 2026-11-09 - Create isolated, portable, and reproducible environments for R projects.
 * [packrat](https://github.com/rstudio/packrat) ⭐ 409 | 🐛 231 | 🌐 R | 📅 2026-10-30 - Parse R package dependencies of Shiny apps with `packrat::appDependencies`.
 * [sysreqsdb](https://github.com/r-hub/sysreqsdb) ⚠️ Archived - SystemRequirements mappings for R packages.
 * [shinyapps-package-dependencies](https://github.com/rstudio/shinyapps-package-dependencies) ⭐ 79 | 🐛 86 | 🌐 R | 📅 2026-09-01 - A collection of bash scripts that install system dependencies for R packages.
@@ -1084,9 +1084,9 @@ add packages to the list.
 
 ### Python - Table
 
-* [great-tables](https://github.com/posit-dev/great-tables) ⭐ 2,918 | 🐛 67 | 🌐 Python | 📅 2026-11-08 - Create styled display tables in Python.
+* [great-tables](https://github.com/posit-dev/great-tables) ⭐ 2,918 | 🐛 69 | 🌐 Python | 📅 2026-11-09 - Create styled display tables in Python.
 * [itables](https://github.com/mwouts/itables) ⭐ 981 | 🐛 46 | 🌐 Python | 📅 2026-10-30 - Display Pandas and Polars data frames as interactive DataTables that you can sort, paginate, scroll, and filter.
-* [gt-extras](https://github.com/posit-dev/gt-extras) ⭐ 102 | 🐛 33 | 🌐 Python | 📅 2025-11-03 - Additional helper functions for enhancing great-tables tables.
+* [gt-extras](https://github.com/posit-dev/gt-extras) ⭐ 102 | 🐛 33 | 🌐 Python | 📅 2026-11-08 - Additional helper functions for enhancing great-tables tables.
 * [reactable-py](https://github.com/machow/reactable-py) ⭐ 88 | 🐛 29 | 🌐 JavaScript | 📅 2025-10-10 - Interactive data tables for Python, port of the R package reactable.
 
 ### Python - Frameworks
@@ -1104,4 +1104,4 @@ add packages to the list.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
